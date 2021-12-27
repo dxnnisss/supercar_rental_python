@@ -1,0 +1,3 @@
+CAR0002|Proton Iriz|1.6L|A Segment|Hatchback|Oceana blue|VFG1628
+CAR0003|Nissan Almera|1.5L|B Segment|Sedan|Dark blue|VAR9819
+CAR0001|Perodua Bezza X|1.3L|A Segment|Sedan|Garnet Red|VFF1328
